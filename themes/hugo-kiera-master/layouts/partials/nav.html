@@ -1,0 +1,21 @@
+{{ $currentPage := . }}
+
+<nav>
+    <ul class="main-menu__wrapper">
+        {{ range .Site.Menus.main }}
+        <li class="top-menu-item {{ if .HasChildren }} menu-item-has-children{{ end }}">
+            <a href="{{ if .HasChildren }}#{{ else }}{{ .URL | relLangURL }}{{ end }}" class="{{ .Identifier }} menu-link">{{ .Name }}</a>
+            {{ if .HasChildren }}
+            <div class="sub-menu">
+                    {{ range .Children }}
+                        <a href="{{ .URL | relLangURL }}" class="sub-menu-link">{{ .Name }} </a>
+                    {{ end }}
+            </div>
+            {{ end }}
+        </li>
+        {{ end }}
+    </ul>
+
+</nav>
+
+
