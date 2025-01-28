@@ -16,6 +16,6 @@ The need for such an initiative became evident following the 2018 Alchemical Fre
 
 Check the links below to find out more about Open Free Energy!
 
-**Website** <https://openfree.energy/>  
-**Github** <https://github.com/openfreeenergy>  
-**Contact** <OpenFreeEnergy@omsf.io>
+**Website**: <https://openfree.energy/>  
+**Github**: <https://github.com/openfreeenergy>  
+**Contact**: <OpenFreeEnergy@omsf.io>
