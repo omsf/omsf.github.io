@@ -16,5 +16,5 @@ Central to OpenFold's vision is the recognition of the vital link between struct
 
 Additionally, OpenFold is focused on optimizing the performance of their model for use on state-of-the-art, widely available GPUs. This hopes to not only foster an environment of collaboration and open-source development, but also ensure that the benefits of these advanced AI tools remain accessible to a broad range of users, catalyzing advancements in biology and drug discovery.
 
-**Website** <https://openfold.io/>  
-**Github** <https://github.com/aqlaboratory/openfold>  
+**Website**: <https://openfold.io/>  
+**Github**: <https://github.com/aqlaboratory/openfold>  
