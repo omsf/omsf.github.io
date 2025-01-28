@@ -18,6 +18,6 @@ An essential component of the Initiative is its commitment to open source, open 
 
 To guide its strategic direction, the Initiative has established a scientific advisory board comprising academic experts in force field development and molecular modeling. This board, along with regular virtual and in-person meetings, provides valuable insights, ensuring that the Initiative stays aligned with the most relevant engineering and scientific efforts in the field of biomolecular simulation and force field development. In addition, this board welcomes industry partners from organizations that fund this effort.
 
-**Website** <https://openforcefield.org/>  
-**Github** <https://github.com/openforcefield>  
-**Contact** <info@openforcefield.org>
+**Website**: <https://openforcefield.org/>  
+**Github**: <https://github.com/openforcefield>  
+**Contact**: <info@openforcefield.org>
