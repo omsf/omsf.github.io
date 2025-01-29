@@ -11,5 +11,5 @@ The NSF POSE Phase II project, awarded to OMSF in September 2023, focuses on enh
 
 For more details about the goals of this project, visit this <Zenodo page>(https://zenodo.org/records/8388247?ref=news.omsf.io). For the latest updates regarding this initiative, visit <https://news.omsf.io>.
 
-**Github** <https://github.com/omsf>  
+**Github**: <https://github.com/omsf>  
 **Contact**: Karmen Condic-Jurkic
