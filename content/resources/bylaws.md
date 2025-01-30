@@ -43,7 +43,7 @@ The nature of the business or purposes to be conducted or promoted by the Founda
 
 Except as otherwise approved by the Board of Directors in any specific case, a Hosted Project is a collaborative endeavor that (i) is engaged in developing Deliverables consistent with the purpose of the Foundation, (ii) is governed by a board, steering committee or other-titled representative group of individuals, (ii) has an executive director or other individual manager able to act as a principle point of contact (&quot;Hosted Project Director&quot;), (iii) completes and submits such form of application as the Board of Directors may from time to time approve, (iv) otherwise meets such criteria as the Board of Directors may from time to time require, and (v) is accepted by vote of the Board of Directors.
 
-#### ARTICLE II <br>
+#### ARTICLE II 
 &nbsp;  
 **MEMBERS**
 
