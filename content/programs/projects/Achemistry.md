@@ -1,11 +1,11 @@
-title	image	part	category	intro	more	alchemistry
-Alchemistry
-none
-80
-project
-Alchemistry hosts the Free Energy Workshop, an annual gathering of experts in free energy calculations from across the globe.
-true
-true
+---
+title: "Alchemistry"
+image: 
+part: 80
+category: "project"
+intro: "Alchemistry organizes the Free Energy Workshop, an annual gathering of experts in free energy calculations from around the world"
+bpc: true
+---
 
 OMSF is proud to host Alchemistry! More information to come!
 
