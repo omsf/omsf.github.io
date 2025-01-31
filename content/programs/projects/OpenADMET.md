@@ -15,5 +15,6 @@ OpenADMET is redefining how scientists address ADMET (absorption, distribution, 
 In collaboration with academia and industry, OpenADMET applies cutting-edge structural biology methods, such as X-ray crystallography and cryo-EM, to enhance model accuracy and predict how drugs interact with key anti-targets. The project is committed to generating high-quality, FAIR (Findable, Accessible, Interoperable, and Reusable) datasets and open-source tools that integrate seamlessly into modern drug discovery workflows.
 Beyond tools and datasets, OpenADMET addresses critical gaps in pharmacogenomics by incorporating genetic diversity into its models, ensuring equitable benefits across populations historically underrepresented in clinical trials. By focusing on universal ADMET challenges rather than specific drug targets, OpenADMET paves the way for safer, more effective therapies while reducing costs and accelerating timelines in drug discovery. With a vision of transforming preclinical optimization, OpenADMET is building a future where ADMET-related failures no longer hinder innovation in medicine.
 
-**Website** <openadmet.org>  
-**Github** <github.com/OpenADMET>  
+**Website**: [openadmet.org](https://openadmet.org/)  
+**Github**: [github.com/OpenADMET](github.com/OpenADMET)   
+**Project Director**: [Ryan Renslow](https://www.linkedin.com/in/ryan-renslow)
