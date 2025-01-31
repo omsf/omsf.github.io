@@ -13,11 +13,12 @@ at info@omsf.io
 
 
 **Follow us**   
-on [Linkedin](https://www.linkedin.com/company/omsf), [X](https://twitter.com/openmsf), and [Bluesky](https://bsky.app/profile/omsf.bsky.social) for updates
+on [Linkedin](https://www.linkedin.com/company/omsf), [X](https://twitter.com/openmsf), and [Bluesky](https://bsky.app/profile/omsf.bsky.social) to stay connected to our ecosystem.
 
 
 **Want the latest news?**   
-Subscribe to our [Newsletter](https://news.omsf.io/)
+Subscribe to our [Newsletter](https://news.omsf.io/) to get monthly news and imporatnt updates,  
+and cheack out our [Blog](https://omsf-blog.ghost.io/) for insights from our community.
 
 
 **Our mailing address**   
