@@ -1,6 +1,6 @@
 ---
-title: Bring your project
-name: "Bring your project"
+title: Join
+name: "Join"
 class: "involved yourproject"
 ---
 
