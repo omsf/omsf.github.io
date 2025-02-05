@@ -36,9 +36,10 @@
             <div style="display:none;" id="{{ .id }}" class="generalclass">
                 <p class="job-description">{{ .description | markdownify }}</p>
             </div>
-            <p>{{ .social | markdownify }} {{ if .git  }}
+            <p  class="project">{{ .social | markdownify }} {{ if .git  }}
                 <span class="git"><img src="/images/git.svg">{{ .git }}</span>
                 {{ end }} </p>
+            <p>{{ .affiliation | markdownify }}</p>
         </div>
         {{ end }} 
     </div>
