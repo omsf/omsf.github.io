@@ -1,27 +1,21 @@
 ---
 title: Join
-name: "Join"
+name: "Getting Started with OMSF"
 class: "involved yourproject"
 ---
 
 ![Bring your project](/images/your-project.svg)
 
-Embarking on a journey with OMSF as a Hosted Project opens opportunities for growth, collaboration, and innovation. Whether you're seeking a nurturing environment for a new initiative or a stable organizational home for an existing project, OMSF is committed to providing comprehensive fiscal sponsorship and support tailored to your unique needs. Here's how to get your project off the ground and into the thriving ecosystem of OMSF.
+The core of the Open Molecular Software Foundation is its hosted projects - groups of talented people that drive innovation, foster collaboration, and contribute to our broader ecosystem.  
 
-## Getting Started with OMSF
-To begin, it's crucial to clearly outline your project's vision, needs, and how you plan to utilize support and funding effectively. OMSF is here to ensure that your project's financial resources are managed with integrity, aligning with both your governance charter and OMSF’s bylaws. Engaging with OMSF not only enhances your project's visibility and network but also extends membership benefits to your financial contributors, fostering a growing community of invested stakeholders. If you’d like to learn more about these benefits, please reach out to info@omsf.io and we’d be happy to tell you more.
+Hosting your project with OMSF means aligning with our commitment to open science and open-source principles while benefiting from an established infrastructure for funding management, governance, and community support.  
 
-## Structuring Your Proposal
-When preparing your project for submission, remember that clarity and detail are key to a successful application. Start by thinking about a comprehensive Project Overview, making sure to include the project's name and a detailed description. This snapshot gives OMSF and potential contributors a clear understanding of what your project is about and its core identity.
+To begin, consider:  
+- How your project fits within the computational molecular sciences domain.  
+- Your commitment to open-source licensing and public code availability.  
+- Your governance model and how decisions will be made within your project.  
+- Your plan for financial sustainability, including potential funding sources.
+  
+OMSF ensures that hosted projects receive the administrative support needed to focus on scientific and technical advancements rather than operational overhead. If interested, read about [What We Do](https://omsf.io/resources/fiscalsponsorship/). And if you are looking for examples of the kinds of projects OMSF hosts, head over to our [Projects](https://omsf.io/programs/projects/) page.
 
-## Governance and Structure
-Elaborate on your project's Governance and Structure. Include your Code of Conduct, governance documents, and information about the leadership body to demonstrate your project's commitment to ethical practices and structured leadership. If you need insight into what has worked previously, contact us at [info@omsf.io](mailto:info@omsf.io) and we can provide some guidance.
-
-## Fiscal and Strategic Alignment
-How might your project align with OMSF’s mission and values? We’d like to know how you plan to work alongside other projects and how your financial strategies align with OMSF’s guidelines.
-
-## Planning and Development
-We will need to know your project's goals. What kind of milestones are you looking to achieve? What is the proposed timetable? And how would you achieve funding for your project? Having a powerful value proposition will make getting your project at OMSF off the ground. If you’d like some guidance, please reach out to [info@omsf.io](mailto:info@omsf.io) 
-
-
-We look forward to hearing from you!
+We are happy to work with you in structuring your proposal. If interested in hosting your project at OMSF, reach us at [info@omsf.io](info@omsfio)
