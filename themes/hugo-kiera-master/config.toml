@@ -93,13 +93,13 @@ section = ["HTML", "RSS", "JSON"]
         weight = 50
               [[menu.main]]
               identifier = "bringproject"
-              name = "Your Project"
+              name = "Projects"
               url = "/involved/bringproject/"
               parent = "involved"
               weight = 10
             [[menu.main]]
               identifier = "contributor"
-              name = "Academic"
+              name = "Academics"
               url = "/involved/contributor/"
               parent = "involved"
               weight = 20
@@ -111,7 +111,7 @@ section = ["HTML", "RSS", "JSON"]
               weight = 30
             [[menu.main]]
               identifier = "donate"
-              name = "Donate"
+              name = "Contribute"
               url = "/involved/donate/"
               parent = "involved"
               weight = 40
