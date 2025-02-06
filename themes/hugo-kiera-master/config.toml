@@ -88,43 +88,43 @@ section = ["HTML", "RSS", "JSON"]
 
         [[menu.main]]
         identifier = "involved"
-        name = "Get Involved"
-        url = "/involved/bringproject/"
+        name = "Join"
+        url = "/join/bringproject/"
         weight = 50
               [[menu.main]]
               identifier = "bringproject"
-              name = "Your project"
-              url = "/involved/bringproject/"
+              name = "Your Project"
+              url = "/join/bringproject/"
               parent = "involved"
               weight = 10
             [[menu.main]]
               identifier = "contributor"
-              name = "Contributor"
-              url = "/involved/contributor/"
+              name = "Academic"
+              url = "/join/academic/"
               parent = "involved"
               weight = 20
             [[menu.main]]
               identifier = "industrypartner"
-              name = "Industry partner"
-              url = "/involved/industrypartner/"
+              name = "Industry"
+              url = "/join/industrypartner/"
               parent = "involved"
               weight = 30
             [[menu.main]]
               identifier = "donate"
               name = "Donate"
-              url = "/involved/donate/"
+              url = "/join/donate/"
               parent = "involved"
               weight = 40
           
       [[menu.main]]
         identifier = "resources"
         name = "Resources"
-        url = "/resources/fiscalsponsorship/"
+        url = "/resources/whatwedo/"
         weight = 60
           [[menu.main]]
               identifier = "fiscalsponsorship"
-              name = "Fiscal Sponsorship"
-              url = "/resources/fiscalsponsorship/"
+              name = "What We Do"
+              url = "/resources/whatwedo/"
               parent = "resources"
               weight = 10
           [[menu.main]]
