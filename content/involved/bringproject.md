@@ -1,5 +1,5 @@
 ---
-title: Join
+title: Projects
 name: "Getting Started with OMSF"
 class: "involved yourproject"
 ---
