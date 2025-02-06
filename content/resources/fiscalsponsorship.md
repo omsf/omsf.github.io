@@ -6,7 +6,6 @@ class: "resources"
 
 ![What We Do](/images/Fiscal-sponsor.svg)
 
-OMSF: A Home for Open Science Collaboration
 The Open Molecular Software Foundation provides a home for open-source projects in computational molecular sciences. Already hosting a plethora of such projects, OMSF streamlines operations, fosters collaboration, and maximizes funding efficiency—allowing researchers and developers to focus on their science, not administrative overhead.
 
 Why OMSF?
