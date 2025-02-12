@@ -111,7 +111,7 @@ section = ["HTML", "RSS", "JSON"]
               weight = 30
             [[menu.main]]
               identifier = "donate"
-              name = "Philanthropy"
+              name = "Donations"
               url = "/involved/donate/"
               parent = "involved"
               weight = 40
