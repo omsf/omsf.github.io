@@ -6,7 +6,7 @@ class: "involved"
 
 ![Become a contributor](/images/member.svg)
 
-OMSF and it's hosted projects enjoy the support of many mission-driven philanthropic organizations. These contributions not only fuel groundbreaking projects but also help build a robust and interconnected scientific community. We are grateful for their significant contirbutions to our cause.  
+OMSF and it's hosted projects beneift from the vital support of mission-driven philanthropic organizations. These contributions not only fuel groundbreaking projects but also help build a robust and interconnected scientific community. We are grateful for their significant contirbutions to our cause.  
 
 Philanthropic organizations provide critical support in several key areas:
 - **Sustainability**: Grants and donations help ensure our project's long-term impact and accessibility.
