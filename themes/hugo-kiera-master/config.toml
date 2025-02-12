@@ -88,7 +88,7 @@ section = ["HTML", "RSS", "JSON"]
 
         [[menu.main]]
         identifier = "involved"
-        name = "Join"
+        name = "Get Involved"
         url = "/involved/bringproject/"
         weight = 50
               [[menu.main]]
