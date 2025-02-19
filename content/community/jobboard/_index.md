@@ -5,5 +5,8 @@ name: "jobboard"
 class: "job"
 layout: community
 ---
+All OMSF positions are currently remote, and we generally accept applications worldwide. Some positions may be restricted to the United States.All positions require a valid work permit \- OMSF has limited ability to sponsor relocation visas at this stage. Depending on your location, you might occasionally need to participate in meetings outside of normal business hours due to time zone differences. 
 
-A dedicated job board is a significant value addition for professional communities. It not only aids members in finding job opportunities that are relevant to their skills and interests but also attracts organizations looking to hire top talent from within the community.
+Explore the opportunities below, and apply with the forms linked within. Reach out to [careers@omsf.io](mailto:careers@omsf.io) if you have additional questions. 
+
+Don’t see what you are looking for? We are always looking for enthusiastic candidates to contribute to our open source projects. If you are interested in building a career at OMSF and don’t see the opportunity you are looking for, please let us know by filling out this [form](https://forms.gle/ChzBhUWKBqVPk1QR7).
