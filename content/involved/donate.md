@@ -1,5 +1,5 @@
 ---
-title: Philanthropy
+title: Donate
 name: "Donate"
 class: "involved"
 ---
