@@ -50,8 +50,8 @@ When contributing content:
 
 ## Getting Help
 
-- For content questions: Tag @zachary-baker
-- For technical issues: Tag @ethan-holz
+- For content questions: Tag @zacharbake
+- For technical issues: Tag @ethanholz
 - For anything else, open an issue
 
 ## Pull Request Template
