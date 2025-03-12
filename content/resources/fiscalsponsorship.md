@@ -19,7 +19,7 @@ OMSF achieves efficiencies in administration and funding, reducing the burden on
 
 OMSF also provides support to those wishing to promote their own molecular science communities. Whether it be organizing events, educating, or showing the best in class, OMSF provides a proven method for in-person and remote organizations to host webinars, in-person meetings, or community gatherings.
 
-If you are interested in bringing your project to OMSF, [email us here!](info@omsf.io).
+If you are interested in bringing your project to OMSF, [email us here!](mailto:info@omsf.io).
 
 We offer the following services to Hosted Projects:
 

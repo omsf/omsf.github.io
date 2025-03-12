@@ -13,4 +13,4 @@ OMSF is always looking for new academic collaborators. We engage with the academ
  - **Joint Grant Initiatives**: We collaborate regualry with researchers on funding proposals, supporting applications for grants from government agencies, philanthropic foundations, and industry consortiums to advance shared research goals.
  - **Expert Contracting**: We connect domain experts from within our community with funded projects, ensuring that cutting-edge research receives the expertise and development support necessary to make an impact.  
 
-If you're excited to contribute but not sure where to start, we want to hear from you. Reach out to [info@omsf.io](info@omsf.io).
+If you're excited to contribute but not sure where to start, we want to hear from you. Reach out to [info@omsf.io](mailto:info@omsf.io).

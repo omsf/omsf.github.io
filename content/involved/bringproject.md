@@ -20,4 +20,4 @@ We also host events and gatherings that foster and educate communities about the
   
 OMSF ensures that hosted projects receive the administrative support needed to focus on scientific and technical advancements rather than operational overhead. If interested, read about [What We Do](https://omsf.io/resources/fiscalsponsorship/). And if you are looking for examples of the kinds of projects OMSF hosts, head over to our [Projects](https://omsf.io/programs/projects/) page.
 
-If you need it, we are happy to work with you in structuring your proposal. If interested in hosting your project at OMSF, reach us at [info@omsf.io](info@omsfio)
+If you need it, we are happy to work with you in structuring your proposal. If interested in hosting your project at OMSF, reach us at [info@omsf.io](mailto:info@omsfio)
