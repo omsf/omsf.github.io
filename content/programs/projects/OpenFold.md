@@ -8,7 +8,7 @@ more: true
 of: true
 ---
 
-## Open Fold
+## OpenFold
 
 OpenFold is a non-profit AI research and development consortium dedicated to democratizing access to the most advanced AI systems, capable of engineering life's molecules, for a diverse array of users including academics, biotech and pharmaceutical companies, and students. These tools are designed to accelerate fundamental biological research and facilitate the development of new cures, previously unimaginable without the aid of AI.
 
