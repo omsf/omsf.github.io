@@ -67,15 +67,15 @@ section = ["HTML", "RSS", "JSON"]
         url = "/community/events/"
         weight = 30
           [[menu.main]]
-            identifier = "news"
-            name = "News"
-            url = "https://news.omsf.io"
-            parent = "community"
-            weight = 10
-          [[menu.main]]
             identifier = "blog"
             name = "Blog"
             url = "https://blog.omsf.io"
+            parent = "community"
+            weight = 10
+          [[menu.main]]
+            identifier = "news"
+            name = "News"
+            url = "https://news.omsf.io"
             parent = "community"
             weight = 20
           [[menu.main]]
@@ -83,14 +83,20 @@ section = ["HTML", "RSS", "JSON"]
             name = "Events"
             url = "/community/events/"
             parent = "community"
-            weight = 20
+            weight = 30
           [[menu.main]]
             identifier = "jobboard"
             name = "Job Board"
             url = "/community/Jobboard/"
             parent = "community"
             layout = "jobboard"
-            weight = 30
+            weight = 40
+          [[menu.main]]
+            identifier = "playbooks"
+            name = "Playbooks"
+            url = "https://playbooks.omsf.io"
+            parent = "community"
+            weight = 50
 
         [[menu.main]]
         identifier = "involved"
