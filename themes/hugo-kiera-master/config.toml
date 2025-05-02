@@ -73,6 +73,12 @@ section = ["HTML", "RSS", "JSON"]
             parent = "community"
             weight = 10
           [[menu.main]]
+            identifier = "blog"
+            name = "Blog"
+            url = "https://blog.omsf.io"
+            parent = "community"
+            weight = 20
+          [[menu.main]]
             identifier = "events"
             name = "Events"
             url = "/community/events/"
