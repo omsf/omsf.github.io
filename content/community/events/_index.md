@@ -26,7 +26,7 @@ Itinerary for the Event
 |  14:05- 14:25 |  Partner II \- |  Aniket Margarkar (*Boehringer Ingelheim* ) |
 |  14:25 \- 14:55 |  Partner III \- |  Woody Sherman (*Psviant*) |
 |  15:00 \- 15:30 |   *Break II* |  |
-|  15:30 \- 15:50 |  Community I \- OMSF Infra Team |  David W Swenson |
+|  15:30 \- 15:50 |  Community I \- OMSF Infra Team |  Ethan Holz |
 |  15:50 \- 16:30 |  Community II \- Lightning Talks |  *Come See\!\!* |
 |  16:30 \- 16:50 |  Community III \- Interactive Workshop |  Zachary Baker |
 |  16:50 \- 17:00 |  Closing Remarks |  |
