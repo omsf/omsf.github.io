@@ -22,9 +22,9 @@ Itinerary for the Event
 |  11:45 \- 12:15 |  Keynote V \- Rosetta |  Sergey Ovchinnikov |
 |  12:15 \- 13:15 |   *Lunch* |  |
 |  13:15 \- 13:45 |  Project Demo 2025 |  Matt Thompson |
-|  13:45 \- 14:05 |  Partner I \- ASAP |  Jenke Scheen (*CHARM Therapeutics*) |
-|  14:05- 14:25 |  Partner II \- |  Aniket Margarkar (*Boehringer Ingelheim* ) |
-|  14:25 \- 14:55 |  Partner III \- |  Woody Sherman (*Psviant*) |
+|  13:45 \- 14:05 |  Partner I |  Jenke Scheen (*CHARM Therapeutics*) |
+|  14:05- 14:25 |  Partner II |  Aniket Margarkar (*Boehringer Ingelheim* ) |
+|  14:25 \- 14:55 |  Partner III |  Woody Sherman (*Psviant*) |
 |  15:00 \- 15:30 |   *Break II* |  |
 |  15:30 \- 15:50 |  Community I \- OMSF Infra Team |  Ethan Holz |
 |  15:50 \- 16:30 |  Community II \- Lightning Talks |  *Come See\!\!* |
