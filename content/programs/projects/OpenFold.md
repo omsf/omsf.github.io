@@ -1,6 +1,6 @@
 ---
-title: "Open Fold"
-image: 
+title: "OpenFold"
+image: "/images/project/OpenFold.svg"
 part: 10
 category: "project"
 intro: "OpenFold develops open-source AI tools for precise molecular structure prediction in biology and drug discovery."
