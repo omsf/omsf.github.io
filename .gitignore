@@ -18,3 +18,5 @@ docs
 *.exe
 *.o
 *.so
+
+.idea
