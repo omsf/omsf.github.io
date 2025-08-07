@@ -7,6 +7,10 @@
 600px // ligne 207 
 */
 
+.events .gridflex {
+margin-top: 2em:
+}
+
 @media only screen and (min-width: 2000px) {
   /* main article figure { grid-row: span 14} */
   main article figure img { width: 120%;}
@@ -67,7 +71,7 @@
   .homepage main nav ul { margin-left: 0px;}
 
    /* Grids --------------------------------- */
-  :is(.projects, .people) .gridflex {
+  :is(.projects, .people, .events) .gridflex {
     grid-template-columns: repeat(2,50%);
   }
   .sub-wrapper {
@@ -207,7 +211,7 @@ main article figure img {
 
 
 @media only screen and (max-width: 600px) {
-  :is(.projects, .people) .gridflex {
+  :is(.projects, .people,.events) .gridflex {
     grid-template-columns: repeat(1,100%);
   }
   .projects .grid-item {
