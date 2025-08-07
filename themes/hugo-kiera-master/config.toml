@@ -97,6 +97,12 @@ section = ["HTML", "RSS", "JSON"]
             url = "https://playbooks.omsf.io"
             parent = "community"
             weight = 50
+          [[menu.main]]
+            identifier = "directory"
+            name = "Software Directory"
+            url = "https://directory.omsf.io"
+            parent = "community"
+            weight = 60
 
         [[menu.main]]
         identifier = "involved"
