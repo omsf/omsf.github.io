@@ -2,7 +2,7 @@ name: Cleanup staging
 description: Cleanup staging environment; this occurs on PR merge or close
 
 on:
-  pull_request:
+  pull_request_target: 
     types: [closed]
 
 jobs:
