@@ -4,7 +4,7 @@ name: "conduct"
 weight: 1
 ---
 
-This Code of Conduct is based on the (Apache Foundation Code of Conduct)[https://www.apache.org/foundation/policies/conduct.html] and modified accordingly.
+This Code of Conduct is based on the [Apache Foundation Code of Conduct](https://www.apache.org/foundation/policies/conduct.html) and modified accordingly.
 
 Last modified: June 2, 2022.
 
