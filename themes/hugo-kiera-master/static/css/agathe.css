@@ -211,7 +211,7 @@ li.menu-item-has-children:not(.mobile-submenu li) {
   display: inline-block;
 }
 li.menu-item-has-children a.menu-link::after{
-  content: "\0023F7";
+  content: "\0025be";
   padding-left: 15px;
   color: var(--color-une-dark);
 }
