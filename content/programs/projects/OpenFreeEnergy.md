@@ -1,6 +1,6 @@
 ---
 title: "Open Free Energy"
-image: "/images/project/openfreeenergy.svg"
+image: "/images/project/OFE-color-horizontal.svg"
 part: 30
 category: "project"
 intro: "The Open Free Energy Consortium focuses on developing and standardizing advanced, interoperable alchemical free energy tools for biomolecular modeling."
