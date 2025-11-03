@@ -108,7 +108,7 @@
           "id": "weitzner"
         },
         {
-          "portrait": ,
+          "portrait":
           "name": "Daniel Smith",
           "fonction": "Director",
           "description": "Dr. Daniel G. A. Smith is the Chief Technology Officer at [Achira](achira.ai) where he leads efforts at the intersection of quantum chemistry, physics, and machine learning to accelerate drug discovery. His work focuses on developing scalable computational frameworks that bridge foundational physical theory with modern data-driven methods, enabling more predictive models of molecular behavior. In addition to his leadership at Achira, Daniel brings deep expertise in open-source infrastructure and community-driven science. He has been a core contributor to transformative projects such as [Psi4](https://psicode.org/), [QCArchive](https://molssi.org/qcarchive/), and [QCEngine](https://github.com/MolSSI/QCEngine), and serves as an advisor to [Open Force Field](https://openforcefield.org/), helping guide its technical direction and interoperability standards across the open molecular ecosystem.",
