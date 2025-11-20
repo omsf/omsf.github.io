@@ -10,14 +10,14 @@ weight: 10
 
 At the Open Molecular Software Foundation, we believe in the power of open science as a catalyst for accelerated innovation.
 
-## Our Mission
+# Our Mission
 * Advance of the molecular sciences through the development of high-quality, open-source software. 
 * Foster the growth of sustainable communities dedicated to research software development. 
 * Bridge industry and academia to facilitate collaboration, building a hub of experts in molecular sciences.
 
 We stand for the creation, iteration, and proliferation of high quality open molecular software. Welcome to OMSF!
 
-## Our Goals
+# Our Goals
 
 **Accelerate scientific, technical, and commercial progress** through rapid dissemination of knowledge and research tools in computational molecular sciences, following open science principles.
 
@@ -29,7 +29,7 @@ We stand for the creation, iteration, and proliferation of high quality open mol
 
 **Create a hub of experts in molecular sciences** committed to improving research software development and application practices by connecting all interested stakeholders -- researchers, developers and funders -- and providing organizational support
 
-## What We Do
+# What We Do
 
 Our unique position allows us to put your project at the intersection of academia and industry, giving you the best of both. Our lean approach allows you to maximize your project’s impact while building from a community of respect and inclusion. Take a look at our current [projects](https://omsf.io/programs/projects/) - we are proud of their continued success!
 
