@@ -13,7 +13,7 @@ weight: 10
 * Foster the growth of sustainable communities dedicated to research software development. 
 * Bridge industry and academia to facilitate collaboration, building a hub of experts in molecular sciences.
 
-We stand for the creation, iteration, and proliferation of high quality open molecular software. Welcome!
+We stand for the creation, iteration, and proliferation of high quality open molecular software. Welcome to OMSF!
 
 ## Our Goals
 
@@ -34,5 +34,3 @@ Our unique position allows us to put your project at the intersection of academi
 As a fiscal sponsor, we provide necessary operational support. As a community, we host a vibrant ecosystem. We strive to be a place where research software engineers, students, and industry professionals can have their work recognized and voices heard. To see our latest progress, head over to our [community blog](https://blog.omsf.io/).
 
 Since 2021, OMSF has been a proud sponsor of open source software and open science. If you’d like, head over to our [resources](https://omsf.io/resources/fiscalsponsorship/) page for more information. Feel free to contact us at [info@omsf.io](mailto:info@omsf.io). 
-
-Welcome to OMSF!
