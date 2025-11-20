@@ -9,7 +9,7 @@ part: 20
 
 ![Events](/images/event.svg)
 
-**OMSF Symposium 2025**
+### OMSF Symposium 2025
 
 In May of 2025, OMSF gathered in Boston MA for our third annual symposium! Atht eh Museum of Science, our community of contributors, academics, and industry partners got together to share our latest software advancements, industry workflows, and of course to see each other in person. 
 
