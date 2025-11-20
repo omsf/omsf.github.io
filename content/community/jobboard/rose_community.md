@@ -9,8 +9,6 @@ part: 10
 
 ![Job board](/images/job.svg)
 
-### Rosetta Commons – Science Communications and Engagement Manager
-
 The [Rosetta Commons](https://rosettacommons.org/) under the Open Molecular Software Foundation (OMSF) advances biomolecular structure prediction and design through open science and open-source research software. We are seeking a Science Communications and Engagement Manager to strengthen communication, connection, and collaboration across our molecular-modeling and computational-biology community.
 
 As Rosetta Commons has grown to over 100 research groups, partners, and open-source efforts, internal and external communication has become increasingly complex. This role blends scientific literacy, community engagement, and strategic communication—ensuring that research, software developments, and community activities are communicated clearly while maintaining the relationships and internal workflows that keep the community aligned.
