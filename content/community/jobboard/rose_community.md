@@ -9,9 +9,7 @@ part: 10
 
 ![Job board](/images/job.svg)
 
-### Rosetta Commons – Science Communications and Engagement Manager
-
-The Rosetta Commons under the Open Molecular Software Foundation (OMSF) advances biomolecular structure prediction and design through open science and open-source research software. We are seeking a Science Communications and Engagement Manager to strengthen communication, connection, and collaboration across our molecular-modeling and computational-biology community.
+The [Rosetta Commons](https://rosettacommons.org/) under the Open Molecular Software Foundation (OMSF) advances biomolecular structure prediction and design through open science and open-source research software. We are seeking a Science Communications and Engagement Manager to strengthen communication, connection, and collaboration across our molecular-modeling and computational-biology community.
 
 As Rosetta Commons has grown to over 100 research groups, partners, and open-source efforts, internal and external communication has become increasingly complex. This role blends scientific literacy, community engagement, and strategic communication—ensuring that research, software developments, and community activities are communicated clearly while maintaining the relationships and internal workflows that keep the community aligned.
 
@@ -49,9 +47,9 @@ The Science Communications and Engagement Manager will work closely with Rosetta
 * Coordinate cross-organizational communication with academic, nonprofit, and industry partners, ensuring consistent messaging across the organization, Rosetta Labs, OMSF, and affiliated groups. Ensure that communications related to events, sponsorships, and programs are aligned with OMSF operations and finance processes.
 
 ***Required Qualifications***
-Bachelor’s degree in a relevant field (communications, marketing, journalism, or life sciences) and 8+ years of professional experience in science communication, marketing, or outreach within research, higher ed, or a science-based organization. OR
-Master's degree in a relevant field (communications, marketing, journalism, or life sciences) and 6+ years of professional experience in science communication, marketing, or outreach within research, higher ed, or a science-based organization. OR
-PhD degree in a relevant field (communications, marketing, journalism, or life sciences) and 1+ years of professional experience in science communication, marketing, or outreach within research, higher ed, or a science-based organization.
+* Bachelor’s degree in a relevant field (communications, marketing, journalism, or life sciences) and 8+ years of professional experience in science communication, marketing, or outreach within research, higher ed, or a science-based organization. OR
+* Master's degree in a relevant field (communications, marketing, journalism, or life sciences) and 6+ years of professional experience in science communication, marketing, or outreach within research, higher ed, or a science-based organization. OR
+* PhD degree in a relevant field (communications, marketing, journalism, or life sciences) and 1+ years of professional experience in science communication, marketing, or outreach within research, higher ed, or a science-based organization.
 * Proven ability to craft engaging stories from technical or research content.
 * Demonstrated success with social-media strategy, web content management, and campaign analytics.
 * Excellent writing, editing, and visual-communication skills.
@@ -60,12 +58,12 @@ PhD degree in a relevant field (communications, marketing, journalism, or life s
 * Comfort engaging with scientific concepts and computational biology/biomolecular structure topics, even if you are not a domain expert in all areas.
 
 ***Preferred Qualifications***
-Advanced degree in a scientific field or science communication.
-Experience in community-based or open-science initiatives.
-Familiarity with academic publishing, CRM systems, and creative tools (e.g., Canva, Adobe Suite, WordPress).
-Experience with event promotion and sponsorship marketing.
-Knowledge of software or computational-biology communities (e.g., GitHub, open-source ecosystems).
-Experience in a community, membership, or engagement role (formal or informal), especially in a scientific or technical context.
+* Advanced degree in a scientific field or science communication.
+* Experience in community-based or open-science initiatives.
+* Familiarity with academic publishing, CRM systems, and creative tools (e.g., Canva, Adobe Suite, WordPress).
+* Experience with event promotion and sponsorship marketing.
+* Knowledge of software or computational-biology communities (e.g., GitHub, open-source ecosystems).
+* Experience in a community, membership, or engagement role (formal or informal), especially in a scientific or technical context.
 
 ***Classification & Compensation***
 * Title: Science Communications and Engagement manager
@@ -74,4 +72,4 @@ Experience in a community, membership, or engagement role (formal or informal), 
 * Benefits: Health, vision, and dental insurance; retirement plan; unlimited time off and sick leave
 
 ***How to Apply***
-Please apply by filling out THIS FORM. Contact julia.koehler.leman@omsf.io for any additional queries about the role and organization.
+Please apply by filling out [THIS FORM](https://forms.fillout.com/t/iBx2i82dV9us). Contact [julia.koehler.leman@omsf.io](julia.koehler.leman@omsf.io) for any additional queries about the role and organization.
