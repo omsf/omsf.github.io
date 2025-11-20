@@ -1,5 +1,5 @@
 ---
-title: "At the Open Molecular Software Foundation, we believe in the power of open science as a catalyst for accelerated innovation."
+title: "About Us"
 menu: "about"
 name: "About"
 layout: about
@@ -7,6 +7,8 @@ weight: 10
 ---
 
 ![OMSF-missions](/images/mission-1.svg)
+
+At the Open Molecular Software Foundation, we believe in the power of open science as a catalyst for accelerated innovation.
 
 ## Our Mission
 * Advance of the molecular sciences through the development of high-quality, open-source software. 
