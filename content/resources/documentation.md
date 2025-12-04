@@ -12,3 +12,5 @@ This section will be continuously updated with new materials.
 - [Conflict of Interest Policy](/resources/coi-policy)
 - [Good standing Policy](/resources/good-standing-policy)
 - [Privacy Policy](/resources/privacy-policy)
+- [IP Policy](/resources/OMSF_IP_Policy.pdf)
+- [Grant-Giving Policy](/resources/OMSF_Grant-Giving_Policy_v1.pdf)
