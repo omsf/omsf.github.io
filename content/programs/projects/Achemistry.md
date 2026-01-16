@@ -18,5 +18,5 @@ Materials from past workshops are freely available through the Alchemistry websi
 
 Registration for the Free Energy Workshop can also be found at the website! Reach out to <alchemistry@omsf.io> for any inquiries.
 
-**Website**: [alchemistry.org](https://alchemistry.org/wiki/Main_Page)  
-**Event Information**: [feworkshop.org](https://www.feworkshop.org/)  
+**Website**: [alchemistry.org](https://omsf.io/alchemistry)  
+**Event Information**: [feworkshop.org]([https://omsf.io/alchemistry/program/schedule/])  
