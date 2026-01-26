@@ -17,7 +17,7 @@ on [Linkedin](https://www.linkedin.com/company/omsf), [X](https://twitter.com/op
 
 
 **Want the latest news?**   
-Subscribe to our [Blog](https://omsf-blog.ghost.io/) to get imporatnt updates and insights from our community delivered right to your inbox.
+Subscribe to our [Blog](https://omsf.substack.com/) to get important updates and insights from our community delivered right to your inbox.
 
 
 **Our mailing address**   

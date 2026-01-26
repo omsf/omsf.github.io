@@ -69,15 +69,9 @@ section = ["HTML", "RSS", "JSON"]
           [[menu.main]]
             identifier = "blog"
             name = "Blog"
-            url = "https://blog.omsf.io"
+            url = "https://omsf.substack.com/"
             parent = "community"
             weight = 10
-          [[menu.main]]
-            identifier = "news"
-            name = "News"
-            url = "https://news.omsf.io"
-            parent = "community"
-            weight = 20
           [[menu.main]]
             identifier = "events"
             name = "Events"
