@@ -1,3 +1,14 @@
+---
+title: UX Engineer
+menu: "UX Engineer"
+name: "Careers"
+class: "job new"
+intro: "OMSF"
+part: 10
+---
+
+![Job board](/images/job.svg)
+
 The Open Molecular Software Foundation (OMSF) builds open-source infrastructure and tooling for computational molecular science. We’re looking for a **UX Engineer** who can ship **polished, usable web experiences**, especially where the UI is powered by **interactive scientific visualization**. We are offering a 6-8 month contract with an hourly rate determined based on the contractor’s experience and agreed upon project deliverables. We expect approximately 15-20 h per week for this project. The contractor will need to be based in the United States. 
 
 All work in this engagement will be released under the **MIT License**.
