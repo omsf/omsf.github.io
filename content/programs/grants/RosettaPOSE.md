@@ -3,7 +3,7 @@ title: "Rosetta POSE"
 image:
 part: 20
 category: "ecosystem"
-intro: "More to come!"
+intro: "Supported by the NSF the Open Rosetta program advances the transition of Rosetta Commons into a sustainable open-source ecosystem."
 more: true
 ---
 
