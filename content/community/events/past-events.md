@@ -11,16 +11,17 @@ part: 20
 
 ### OMSF Symposium 2025
 
-In May of 2025, OMSF gathered in Boston MA for our third annual symposium! Atht eh Museum of Science, our community of contributors, academics, and industry partners got together to share our latest software advancements, industry workflows, and of course to see each other in person. 
+In May of 2025, OMSF gathered at the Museum of Science in Boston, MA for our third annual symposium!
 
-**Information**: here is the [schedule](https://omsf.notion.site/OMSF-Symposium-2025-157e6ec9d442801c91e2d8c672ba40a4) of the symposium, as well as all the relevant information for the venue, lodging, and special events!
+We brought together our community for a day focused on project progress and real-world applications. Talks spanned OMSF-hosted software projects, industry perspectives from organizations using these tools in production settings, and exposes from across our ecosystem.
+
+For the full program, visit [our official program](https://omsf.notion.site/OMSF-Symposium-2025-157e6ec9d442801c91e2d8c672ba40a4).
 
 
 ### OMSF Symposium 2024
 
-OMSF Symposium 2024 was in Leiden, NL. It was fantastic to see our community gathered under one roof, especially one as beautiful as [Naturalis](https://www.naturalis.nl/) - an unforgettable experience!
+Our second symposium was in Leiden, NL. It was fantastic to see our community gathered under one roof, especially one as beautiful as [Naturalis](https://www.naturalis.nl/) - an unforgettable experience!
 
-If you missed the event this year or want to revisit it, we now have photos and videos available! The symposium featured a blend of keynote presentations, partner presentations, engaging panel discussions, and hands-on project demos from leading initiatives like Open Force Field, Open Free Energy, and OpenFold. 
+The symposium featured a blend of keynote presentations, partner presentations, engaging panel discussions, and hands-on project demos from leading initiatives like Open Force Field, Open Free Energy, and OpenFold. 
 
-**Information**: Here is the [itinerary](https://omsf.notion.site/OMSF-Symposium-2024-077c73e9d80a4a0ba01fcbafd20885fa?pvs=74) of the event.  
-**Videos**: visit our [YouTube Playlist](https://youtu.be/9I6MQulF5CM?si=7m15UimmcNrhbWA4) for the 2024 project keynotes.
+Here is the [itinerary](https://omsf.notion.site/OMSF-Symposium-2024-077c73e9d80a4a0ba01fcbafd20885fa?pvs=74) of the event.  
