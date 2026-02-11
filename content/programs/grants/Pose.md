@@ -3,7 +3,7 @@ title: "OMSF POSE"
 image:
 part: 10
 category: "ecosystem"
-intro: "Aimed at growing and supporting our ecosystem as a distributed network of autonomous communities connected via shared infrastructure, processes, and values, the Ecosystem Infrastructure team at OMSF is sponsored by the NSF through the POSE grant."
+intro: "The NSF supports our Ecosystem Infrastructure team, which develops shared infrastructure for the ecosystem."
 more: true
 ---
 
