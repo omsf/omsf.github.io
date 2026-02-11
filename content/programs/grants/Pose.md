@@ -16,5 +16,5 @@ For the entire proposal, visit this [Zenodo page](https://zenodo.org/records/838
 **Program Outputs**:
 - [Software Directory](https://github.com/omsf/omsf-directory)
 - [Playbooks](https://github.com/omsf/playbooks-website)
-- [Actions Runner](https://github.com/omsf/start-aws-gha-runner)
+- [Actions Runner](https://github.com/omsf/start-aws-gha-runner)  
 **Contact**: Karmen Condic-Jurkic
