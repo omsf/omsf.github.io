@@ -22,5 +22,5 @@ Subscribe to our [Blog](https://omsf.substack.com/) to get important updates and
 
 **Our mailing address**   
 Open Molecular Software Foundation   
-417 Mace Blvd., Suite J110  
-Davis, CA 95618
+OMSF 833 Bancroft Way, Suite A (2nd Floor)
+Berkeley, CA 94710
