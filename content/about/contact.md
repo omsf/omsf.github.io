@@ -22,5 +22,5 @@ Subscribe to our [Blog](https://omsf.substack.com/) to get important updates and
 
 **Our mailing address**   
 Open Molecular Software Foundation   
-OMSF 833 Bancroft Way, Suite A (2nd Floor)
+OMSF 833 Bancroft Way, Suite A (2nd Floor)   
 Berkeley, CA 94710
