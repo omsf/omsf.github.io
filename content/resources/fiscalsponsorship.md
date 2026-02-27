@@ -1,5 +1,5 @@
 ---
-title: "What We Do"
+title: "Organizational Support"
 name: "legal"
 class: "resources"
 ---
@@ -10,9 +10,9 @@ The Open Molecular Software Foundation provides a home for open-source projects 
 
 Why OMSF?
 - We provide a collaborative, connected, global ecosystem where projects and experts can communicate and collaborate.
-- From accounting and human resources to best practices in governance and community building, we help projects operate smoothly.
 - OMSF provides a neutral, independent home, ensuring that projects aren't tied to a single developer or institution
 - We offer proven governance frameworks and support models, reducing the friction of both launching and maintaining impactful projects.
+- From best practices in governance and community building to accounting and human resources, we help projects operate smoothly.
 - Through OMSF, projects gain access to our community of potential funders, users, and collaborators, increasing project reach, visibility and impact.
 
 OMSF achieves efficiencies in administration and funding, reducing the burden on individual projects while effectively managing consortium funding, tax considerations, and operational logistics. This allows hosted projects to focus on their mission while benefiting from centralized expertise and infrastructure.
@@ -23,24 +23,23 @@ If you are interested in bringing your project to OMSF, [email us here!](mailto:
 
 We offer the following services to Hosted Projects:
 
-#### Full back-office support:
-  - Transparent accounting
-  - Contracts management
-  - Accounts payable and receivable
-  - Insurance
-
-
-#### Human resources,
-  - Support for international hiring
-  - Independent contractors
-  - Employee benefits and payroll
-
 #### Strategic advising
   - Revenue modelling
   - Fundraising support,
   - Assistance with project governance
   - Exploring funding options and business models to ensure the long term sustainability of Hosted Projects
   - Help identify and grow strategic partnerships and relationships with stakeholders relevant to Hosted Project’s success
+
+#### Full back-office support:
+  - Transparent accounting
+  - Contracts management
+  - Accounts payable and receivable
+  - Insurance
+
+#### Human resources,
+  - Support for international hiring
+  - Independent contractors
+  - Employee benefits and payroll
 
 #### Other:
   - Fellowship disbursement
