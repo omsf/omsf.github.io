@@ -135,7 +135,7 @@ section = ["HTML", "RSS", "JSON"]
         weight = 60
           [[menu.main]]
               identifier = "fiscalsponsorship"
-              name = "What We Do"
+              name = "Organizational Support"
               url = "/resources/fiscalsponsorship/"
               parent = "resources"
               weight = 10
