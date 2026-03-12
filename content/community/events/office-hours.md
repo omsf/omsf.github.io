@@ -31,9 +31,9 @@ Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=
 
 **Description**:  We will discuss what is `pixi`, why you might want to adopt it, and how it makes package management easier than `conda` or `mamba`. 
 
-**Date**: March 20th, 2026
+**Date**: March 20th, 2026 at 10:30 AM Eastern Time
 
-**Meeting Link**: 
+**Meeting Link**: [https://us06web.zoom.us/j/83144223863?pwd=ElIQTMmoSDA3knZb0bttsZKIJmaE2c.1&jst=2](https://us06web.zoom.us/j/83144223863?pwd=ElIQTMmoSDA3knZb0bttsZKIJmaE2c.1&jst=2)
 
 ### **April**
 **Topic**: Agentic Coding Workflows
