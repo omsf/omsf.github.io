@@ -1,0 +1,37 @@
+name: Build from push
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.141.0
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - name: Install Node.js dependencies
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+
+      - name: Build site
+        uses: omsf/static-site-tools/build/hugo@main
+        with:
+          base-url: ""
+
+      - name: Make artifact
+        shell: bash
+        run: tar czf site.tar.gz public
+
+      - name: Upload build artifact
+        if: ${{ github.event_name != 'schedule' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-build
+          path: site.tar.gz
+          if-no-files-found: error
+          retention-days: 1
