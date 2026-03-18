@@ -4,9 +4,14 @@
     <ul class="main-menu__wrapper">
         {{ range .Site.Menus.main }}
         <li class="top-menu-item {{ if .HasChildren }} menu-item-has-children{{ end }}">
-            <button class="button {{ .Identifier }}" onclick="maFunction('{{ .Identifier }}')">{{ .Name }}</button>
+            <button
+              class="button {{ .Identifier }}"
+              type="button"
+              onclick="maFunction('{{ .Identifier }}')"
+              {{ if .HasChildren }}aria-controls="{{ .Identifier }}" aria-expanded="false"{{ end }}
+            >{{ .Name }}</button>
             {{ if .HasChildren }}
-            <div style="display:none;" id="{{ .Identifier }}" class="generalclass">
+            <div id="{{ .Identifier }}" class="generalclass" aria-hidden="true">
                     {{ range .Children }}
                         <a href="{{ .URL | relLangURL }}" class="sub-menu-link">{{ .Name }} </a>
                     {{ end }}
@@ -20,13 +25,40 @@
 
 <script>
   function maFunction(divid) {
-  var x = document.getElementById(divid);  
-  if (x.style.display === "none") 
-  {
-    x.style.display = "block";
-  } 
-  else {
-    x.style.display = "none";
+    var menu = document.getElementById(divid);
+
+    if (!menu) {
+      return;
+    }
+
+    var button = document.querySelector('button[aria-controls="' + divid + '"]');
+    var isOpen = menu.classList.contains("is-open");
+
+    if (isOpen) {
+      menu.style.maxHeight = menu.scrollHeight + "px";
+
+      requestAnimationFrame(function() {
+        menu.classList.remove("is-open");
+        menu.style.maxHeight = "0px";
+      });
+    } else {
+      menu.classList.add("is-open");
+      menu.style.maxHeight = menu.scrollHeight + "px";
+    }
+
+    if (button) {
+      button.setAttribute("aria-expanded", String(!isOpen));
+      button.classList.toggle("is-open", !isOpen);
+    }
+
+    menu.setAttribute("aria-hidden", String(isOpen));
   }  
-}
+
+  window.addEventListener("resize", function() {
+    var openMenus = document.querySelectorAll(".homepage .generalclass.is-open");
+
+    openMenus.forEach(function(menu) {
+      menu.style.maxHeight = menu.scrollHeight + "px";
+    });
+  });
 </script>

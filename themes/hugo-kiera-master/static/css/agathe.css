@@ -563,6 +563,19 @@ section.welcome-tagline {
   font-size: 1.1em;
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  transition: background-color 0.2s ease;
+}
+.homepage .top-menu-item.menu-item-has-children .button::after {
+  content: "+";
+  font-size: 1.5rem;
+  line-height: 1;
+  margin-right: 1.25rem;
+  transform: translateY(-1px);
+  transition: transform 0.3s ease;
+}
+.homepage .top-menu-item.menu-item-has-children .button.is-open::after {
+  transform: translateY(-1px) rotate(45deg);
 }
 .homepage .top-menu-item button:hover,
 .homepage .sub-menu-link:hover {
@@ -588,9 +601,21 @@ background-color: var(--color-une);
 .homepage .top-menu-item .involved:before {
   content: url('/images/icon-contact.svg');
 }
-.generalclass {
+.homepage .generalclass {
   position: relative;
   font-size: 0.9em;
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transform: translateY(-8px);
+  transition: max-height 0.35s ease, opacity 0.24s ease, transform 0.24s ease;
+  will-change: max-height, opacity, transform;
+  pointer-events: none;
+}
+.homepage .generalclass.is-open {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
 }
 .homepage .generalclass a {
   padding: 12px 0px 12px 135px;
@@ -601,4 +626,11 @@ background-color: var(--color-une);
 .homepage .top-menu-item .generalclass a:last-of-type,
 .homepage .main-menu__wrapper li:last-of-type {
   border-bottom: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .homepage .top-menu-item.menu-item-has-children .button::after,
+  .homepage .generalclass {
+    transition: none;
+  }
 }
