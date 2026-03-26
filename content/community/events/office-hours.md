@@ -25,22 +25,20 @@ For more information, be sure to follow OMSF on [LinkedIn](https://www.linkedin.
 ## Upcoming Office Hours
 Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18wZDAxN2UyNjUxMDgxN2YzYzJlZWE0ZDk2ZjVkYTNjYWI2NGM3ZDg2YjNjNWYxZDAyZTAzOTBmNWZmMWNhMTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)!
 
-### **March**
-
-**Topic**: Using `pixi` as alternative to conda/mamba
-
-**Description**:  We will discuss what is `pixi`, why you might want to adopt it, and how it makes package management easier than `conda` or `mamba`. 
-
-**Date**: March 20th, 2026 at 10:30 AM Eastern Time
-
-**Meeting Link**: [https://us06web.zoom.us/j/83144223863?pwd=ElIQTMmoSDA3knZb0bttsZKIJmaE2c.1&jst=2](https://us06web.zoom.us/j/83144223863?pwd=ElIQTMmoSDA3knZb0bttsZKIJmaE2c.1&jst=2)
-
 ### **April**
 **Topic**: Agentic Coding Workflows
 
-**Description**: This event will cover how we are using coding agents at the OMSF.
+**Description**: This event will cover how we are using coding agents at the OMSF and associated projects! Come talk about how you use or want to use tools like Claude Code, OpenCode, or Cursor!
 
-**Date**: TBA
+**Date(s)**: 
+- April 24th at 10:30 AM Eastern Time
+- April 28th at 6:00 PM Eastern Time
+
+**Meeting Link (April 24th)**:  
+https://us06web.zoom.us/j/89808803154?pwd=x2MAdAGaiiXcCdZXPwo7LsRD18Uouj.1&jst=2
+
+**Meeting Link (April 28th)**:  
+https://us06web.zoom.us/j/85241021275?pwd=LMDQN9saQNqaVnGLcaGYlFI1AM7jus.1&jst=2
 
 ### **May**
 **Topic**: Agentic Coding Policy in Open Source
@@ -57,4 +55,12 @@ Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=
 
 **Date**: TBA
 
+## Previous Office Hours
 
+### **March**
+
+**Topic**: Using `pixi` as alternative to conda/mamba
+
+**Description**:  We will discuss what is `pixi`, why you might want to adopt it, and how it makes package management easier than `conda` or `mamba`. 
+
+**Date**: March 20th, 2026 at 10:30 AM Eastern Time
