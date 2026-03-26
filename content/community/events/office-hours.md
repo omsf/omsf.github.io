@@ -64,6 +64,3 @@ https://us06web.zoom.us/j/85241021275?pwd=LMDQN9saQNqaVnGLcaGYlFI1AM7jus.1&jst=2
 **Description**:  We will discuss what is `pixi`, why you might want to adopt it, and how it makes package management easier than `conda` or `mamba`. 
 
 **Date**: March 20th, 2026 at 10:30 AM Eastern Time
-
-**Meeting Link**: [https://us06web.zoom.us/j/83144223863?pwd=ElIQTMmoSDA3knZb0bttsZKIJmaE2c.1&jst=2](https://us06web.zoom.us/j/83144223863?pwd=ElIQTMmoSDA3knZb0bttsZKIJmaE2c.1&jst=2)
-
