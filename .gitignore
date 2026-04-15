@@ -20,3 +20,6 @@ docs
 *.so
 
 .idea
+# pixi environments
+.pixi/*
+!.pixi/config.toml
