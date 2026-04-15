@@ -24,8 +24,8 @@ Interested in presenting? Submit your abstract [here](https://forms.gle/FngCh66Z
 
 The inaugural CoFold Summit brings together researchers and developers working on structure prediction, with programming focused on technical exchange and cross-project discussion. 
 
-**When**: May 6, 2026 
-**Information**: [https://omsf.notion.site/barcelona-2026](https://omsf.notion.site/barcelona-2026)
+**When**: May 6, 2026  
+**Information**: [https://omsf.notion.site/barcelona-2026](https://omsf.notion.site/barcelona-2026)  
 **Information and Registration**: [$100](https://luma.com/yklxc0ib)  
 
 ### OMSF Symposium 2026
@@ -33,7 +33,7 @@ The inaugural CoFold Summit brings together researchers and developers working o
 The OMSF Symposium serves as the anchor gathering for the community, bringing together contributors, academics, and industry partners to share recent developments across our software projects and explore the future of molecular software together.
 
 **When**: May 7-8, 2026  
-**Information**: [https://omsf.notion.site/barcelona-2026](https://omsf.notion.site/barcelona-2026)
+**Information**: [https://omsf.notion.site/barcelona-2026](https://omsf.notion.site/barcelona-2026)  
 **Registration**: [$0](https://luma.com/of677kui)  
 
 
