@@ -1,0 +1,11 @@
+[workspace]
+authors = ["Ethan Holz <ethan.holz@omsf.io>"]
+channels = ["conda-forge"]
+name = "omsf.github.io"
+platforms = ["osx-arm64", "linux-64", "linux-aarch64", "osx-64", "win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+hugo = "==0.141.0"
