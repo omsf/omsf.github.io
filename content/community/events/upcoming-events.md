@@ -26,7 +26,7 @@ The inaugural CoFold Summit brings together researchers and developers working o
 
 **When**: May 6, 2026  
 **Schedule**: [https://omsf.notion.site/cofold-summit-speakerlist](https://omsf.notion.site/cofold-summit-speakerlist)  
-**Registration**: [https://luma.com/yklxc0ib ($100)](https://luma.com/yklxc0ib)  
+**Registration**: [https://luma.com/yklxc0ib (Sold Out)](https://luma.com/yklxc0ib)  
 
 ### OMSF Symposium 2026
 
@@ -34,7 +34,7 @@ The OMSF Symposium serves as the anchor gathering for the community, bringing to
 
 **When**: May 7-8, 2026  
 **Schedule**: [https://omsf.notion.site/omsf-symposium-2026-speakerlist](https://omsf.notion.site/omsf-symposium-2026-speakerlist)  
-**Registration**: [https://luma.com/of677kui ($0)](https://luma.com/of677kui)  
+**Registration**: [https://luma.com/of677kui (Sold Out)](https://luma.com/of677kui)  
 
 
 ## Boston Open Science & Innovation Forum
