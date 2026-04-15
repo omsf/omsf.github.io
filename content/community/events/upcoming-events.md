@@ -16,7 +16,7 @@ In May 2026, OMSF and our partners will gather in Barcelona for a week of coordi
 Hosted by the Alchemistry project, this long-standing workshop will focus on free energy methods in drug design, attracting researchers and practitioners to discuss methodology and real-world applications.
 
 **When**: May 4-6, 2026  
-**Information**: [omsf.io/alchemistry/](https://omsf.io/alchemistry/)  
+**Schedule**: [https://omsf.io/alchemistry/program/schedule/](https://omsf.io/alchemistry/program/schedule/)  
 **Registration**: [$267](https://www.zeffy.com/en-US/ticketing/register-for-the-2026-free-energy-workshop)  
 Interested in presenting? Submit your abstract [here](https://forms.gle/FngCh66Z9BvxqMCZ8).  
 
@@ -25,16 +25,16 @@ Interested in presenting? Submit your abstract [here](https://forms.gle/FngCh66Z
 The inaugural CoFold Summit brings together researchers and developers working on structure prediction, with programming focused on technical exchange and cross-project discussion. 
 
 **When**: May 6, 2026  
-**Information**: [https://omsf.notion.site/barcelona-2026](https://omsf.notion.site/barcelona-2026)  
-**Registration**: [$100](https://luma.com/yklxc0ib)  
+**Schedule**: [https://omsf.notion.site/cofold-summit-speakerlist](https://omsf.notion.site/cofold-summit-speakerlist)  
+**Registration**: [https://luma.com/yklxc0ib ($100)](https://luma.com/yklxc0ib)  
 
 ### OMSF Symposium 2026
 
 The OMSF Symposium serves as the anchor gathering for the community, bringing together contributors, academics, and industry partners to share recent developments across our software projects and explore the future of molecular software together.
 
 **When**: May 7-8, 2026  
-**Information**: [https://omsf.notion.site/barcelona-2026](https://omsf.notion.site/barcelona-2026)  
-**Registration**: [$0](https://luma.com/of677kui)  
+**Schedule**: [https://omsf.notion.site/omsf-symposium-2026-speakerlist](https://omsf.notion.site/omsf-symposium-2026-speakerlist)  
+**Registration**: [https://luma.com/of677kui ($0)](https://luma.com/of677kui)  
 
 
 ## Boston Open Science & Innovation Forum
