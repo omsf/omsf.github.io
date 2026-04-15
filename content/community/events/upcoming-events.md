@@ -26,7 +26,7 @@ The inaugural CoFold Summit brings together researchers and developers working o
 
 **When**: May 6, 2026  
 **Information**: [https://omsf.notion.site/barcelona-2026](https://omsf.notion.site/barcelona-2026)  
-**Information and Registration**: [$100](https://luma.com/yklxc0ib)  
+**Registration**: [$100](https://luma.com/yklxc0ib)  
 
 ### OMSF Symposium 2026
 
