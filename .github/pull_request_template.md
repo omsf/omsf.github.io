@@ -28,5 +28,3 @@
 
 ## Reviewer Notes
 <!-- Any specific points you want reviewers to focus on -->
-
-/cc @zacharbake @ethanholz
