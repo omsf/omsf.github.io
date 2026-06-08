@@ -5,10 +5,17 @@
     <head>
         <title>OMSF — {{ .Page.Title }}</title>
         {{ partial "meta" . }}
+        {{ with .Params.redirect_to }}
+        <meta http-equiv="refresh" content="0; url={{ . }}" />
+        <link rel="canonical" href="{{ . }}" />
+        {{ end }}
         {{ partialCached "header_includes" . -}}
     </head>
 
     <body class="{{block "bodyClass" .}} {{ end }} {{ if .Params.class }} {{ .Params.class }} {{ end }} {{ .Page.Section }}">
+        {{ with .Params.redirect_to }}
+        <script>window.location.replace("{{ . }}");</script>
+        {{ end }}
 
         <div id="container">
 
