@@ -6,15 +6,21 @@
         <title>OMSF — {{ .Page.Title }}</title>
         {{ partial "meta" . }}
         {{ with .Params.redirect_to }}
+        {{ $u := urls.Parse . }}
+        {{ if or (eq $u.Scheme "") (in (slice "http" "https") $u.Scheme) }}
         <meta http-equiv="refresh" content="0; url={{ . }}" />
         <link rel="canonical" href="{{ . }}" />
+        {{ end }}
         {{ end }}
         {{ partialCached "header_includes" . -}}
     </head>
 
     <body class="{{block "bodyClass" .}} {{ end }} {{ if .Params.class }} {{ .Params.class }} {{ end }} {{ .Page.Section }}">
         {{ with .Params.redirect_to }}
-        <script>window.location.replace("{{ . }}");</script>
+        {{ $u := urls.Parse . }}
+        {{ if or (eq $u.Scheme "") (in (slice "http" "https") $u.Scheme) }}
+        <script>window.location.replace({{ . | jsonify }});</script>
+        {{ end }}
         {{ end }}
 
         <div id="container">
