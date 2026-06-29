@@ -338,9 +338,13 @@ footer .column-2 {
     text-align: right;
     justify-content: end;
 }
-footer .social img {
+footer .social img,
+footer .social svg {
     width: 30px;
     margin-bottom: 1ch;
+}
+footer .social svg {
+    fill: currentColor;
 }
 footer .terms a {
     padding-left: 2ch;
