@@ -56,7 +56,7 @@ The Code of Conduct, above, details our standards for behaviour in the OMSF comm
 #### REPORTING GUIDELINES
 
 While all participants should adhere to this code of conduct, we recognize that sometimes people may have a bad day, or be unaware of some of the code's guidelines. When that happens, you may reply to them and point out this code of conduct. Such messages may be in public or in private, whatever is most appropriate. However, regardless of whether the message is public or not, it should still adhere to the relevant parts of this code of conduct; in particular, it should not be abusive or disrespectful.
-Assume good faith; it is more likely that participants are unaware of their bad behaviour than that they intentionally try to degrade the quality of the discussion. Should there be difficulties in dealing with the situation, you may report your compliance issues in confidence to board at omsf.io or director @ omsf.io
+Assume good faith; it is more likely that participants are unaware of their bad behaviour than that they intentionally try to degrade the quality of the discussion. Should there be difficulties in dealing with the situation, you may report your compliance issues in confidence to board@omsf.io or director@omsf.io
 If the violation is in documentation or code, for example inappropriate pronoun usage or word choice within official documentation, report these privately to the project in question at their contact email addresses, and, if you have sufficient ability within the project, resolve or remove the concerning material, being mindful of the perspective of the person originally reporting the issue.
 
 #### NOTES
