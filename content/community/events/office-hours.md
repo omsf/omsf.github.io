@@ -25,6 +25,32 @@ For more information, be sure to follow OMSF on [LinkedIn](https://www.linkedin.
 ## Upcoming Office Hours
 Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18wZDAxN2UyNjUxMDgxN2YzYzJlZWE0ZDk2ZjVkYTNjYWI2NGM3ZDg2YjNjNWYxZDAyZTAzOTBmNWZmMWNhMTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)!
 
+### **July**
+
+**Topic**: Using framejs for interactive web-based visualizations
+
+**Description**: Dion Whitehead will discuss using [framejs](https://framejs.io/docs/) to build interactive web-based visualizations with AI tooling.
+
+**Date(s)**:
+- July 24th at 12:00 PM  Eastern Time
+- July 28th at 6:00 PM Eastern Time
+
+**Meeting Link (July 24th)**
+[https://us06web.zoom.us/j/86144237166?pwd=F8suxBoU0ZKtz6pKcRsKPpgVNIxUhF.1&jst=2](https://us06web.zoom.us/j/86144237166?pwd=F8suxBoU0ZKtz6pKcRsKPpgVNIxUhF.1&jst=2)
+
+**Meeting Link (July 28th)**
+[https://us06web.zoom.us/j/87098370728?pwd=rRGxD1prwKqPj7hJfy22AuolBivjeL.1&jst=2](https://us06web.zoom.us/j/87098370728?pwd=rRGxD1prwKqPj7hJfy22AuolBivjeL.1&jst=2)
+
+## Previous Office Hours
+
+### **March**
+
+**Topic**: Using `pixi` as alternative to conda/mamba
+
+**Description**:  We will discuss what is `pixi`, why you might want to adopt it, and how it makes package management easier than `conda` or `mamba`. 
+
+**Date**: March 20th at 10:30 AM Eastern Time
+
 ### **April**
 **Topic**: Agentic Coding Workflows
 
@@ -39,28 +65,3 @@ https://us06web.zoom.us/j/89808803154?pwd=x2MAdAGaiiXcCdZXPwo7LsRD18Uouj.1&jst=2
 
 **Meeting Link (April 28th)**:  
 https://us06web.zoom.us/j/85241021275?pwd=LMDQN9saQNqaVnGLcaGYlFI1AM7jus.1&jst=2
-
-### **May**
-**Topic**: Agentic Coding Policy in Open Source
-
-**Description**: This month we will cover what open-source projects have AI policies and discuss how we might adopt them within the space.
-
-**Date**: TBA
-
-
-### **June**
-**Topic**: Workflow Power Hour
-
-**Description**: Come share how you work! Discussion includes the CLI tools, editors, or anything that you like using to do your work!
-
-**Date**: TBA
-
-## Previous Office Hours
-
-### **March**
-
-**Topic**: Using `pixi` as alternative to conda/mamba
-
-**Description**:  We will discuss what is `pixi`, why you might want to adopt it, and how it makes package management easier than `conda` or `mamba`. 
-
-**Date**: March 20th, 2026 at 10:30 AM Eastern Time
