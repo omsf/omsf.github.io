@@ -505,6 +505,7 @@ position: unset !important;
 .of { color: var(--color-of); }
 .bpc { color: var(--color-bpc); }
 .westpa { color: var(--color-westpa); }
+.pyscf { color: var(--color-pyscf); }
 
 .pro + .pro { margin-top: -1.5em; }
 
