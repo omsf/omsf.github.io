@@ -506,6 +506,7 @@ position: unset !important;
 .bpc { color: var(--color-bpc); }
 .westpa { color: var(--color-westpa); }
 .pyscf { color: var(--color-pyscf); }
+.rss { color: var(--color-rss); }
 
 .pro + .pro { margin-top: -1.5em; }
 
