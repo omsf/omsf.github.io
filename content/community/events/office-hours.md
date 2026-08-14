@@ -25,6 +25,17 @@ For more information, be sure to follow OMSF on [LinkedIn](https://www.linkedin.
 ## Upcoming Office Hours
 Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18wZDAxN2UyNjUxMDgxN2YzYzJlZWE0ZDk2ZjVkYTNjYWI2NGM3ZDg2YjNjNWYxZDAyZTAzOTBmNWZmMWNhMTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)!
 
+### **August**
+
+**Topic**: Conda/packaging Ask Me Anything
+
+**Description**: Join Jaime Rodríguez-Guerra of Quansight for a public Ask Me Anything about conda and packaging. The event will be recorded, and questions can be submitted in advance for those who cannot attend.
+
+**Date**: Monday, August 17th at 6:00 PM Europe / 12:00 PM Eastern Time / 9:00 AM Pacific Time
+
+**Links**: [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3RlcXRmN3ZyZGhwOWMwMm5ndmxnNmhnaDYgZGF2aWQuc3dlbnNvbkBvbXNmLmlv&tmsrc=david.swenson%40omsf.io) · [Join on Zoom](https://zoom.us/j/9138593505?pwd=SWh3dE1IK05LV01Qa0FJZ1ZpMzJLZz09) · [Presubmit questions](https://hackmd.io/@jaimergp/HJMNExqBfl)
+
+## Previous Office Hours
 ### **July**
 
 **Topic**: Using framejs for interactive web-based visualizations
@@ -40,8 +51,6 @@ Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=
 
 **Meeting Link (July 28th)**
 [https://us06web.zoom.us/j/87098370728?pwd=rRGxD1prwKqPj7hJfy22AuolBivjeL.1&jst=2](https://us06web.zoom.us/j/87098370728?pwd=rRGxD1prwKqPj7hJfy22AuolBivjeL.1&jst=2)
-
-## Previous Office Hours
 
 ### **March**
 
