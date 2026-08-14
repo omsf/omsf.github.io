@@ -27,7 +27,7 @@ Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=
 
 ### **August**
 
-**Topic**: Conda/packaging Ask Me Anything
+**Topic**: Conda Packaging Ask Me Anything
 
 **Description**: Join Jaime Rodríguez-Guerra of Quansight for a public Ask Me Anything about conda and packaging. The event will be recorded, and questions can be submitted in advance for those who cannot attend.
 
