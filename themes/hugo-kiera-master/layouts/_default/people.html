@@ -34,7 +34,7 @@
             <button class="button" onclick="laPetiteFunction('{{ .id }}')">Read bio <img src="/images/read-bio.svg"></button>
             {{ end }} 
             <div style="display:none;" id="{{ .id }}" class="generalclass">
-                <p class="job-description">{{ .description | markdownify }}</p>
+                <div class="job-description">{{ .description | markdownify }}</div>
             </div>
             <p  class="project">{{ .social | markdownify }} {{ if .git  }}
                 <span class="git"><img src="/images/git.svg">{{ .git }}</span>
@@ -59,7 +59,7 @@
             <button class="button" onclick="laPetiteFunction('{{ .id }}')">Read bio <img src="/images/read-bio.svg"></button>
             {{ end }} 
             <div style="display:none;" id="{{ .id }}" class="generalclass">
-                <p class="job-description">{{ .description | markdownify }}</p>
+                <div class="job-description">{{ .description | markdownify }}</div>
             </div>
             <p class="social">{{ .social | markdownify }} 
                 {{ if .git  }}

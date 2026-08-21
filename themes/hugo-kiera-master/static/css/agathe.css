@@ -396,7 +396,6 @@ section.joinus {
 .grid-item h2:first-of-type {
   margin: 0px !important;
 }
-.people .grid-item,
 .projects .grid-item .pro  {
   align-self: flex-end;
 }
@@ -597,6 +596,12 @@ background-color: var(--color-une);
 .generalclass {
   position: relative;
   font-size: 0.9em;
+}
+.generalclass .job-description {
+  font-size: 0.8em;
+}
+.generalclass .job-description p {
+  font-size: inherit;
 }
 .homepage .generalclass a {
   padding: 12px 0px 12px 135px;
