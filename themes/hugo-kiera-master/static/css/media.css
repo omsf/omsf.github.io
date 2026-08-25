@@ -197,7 +197,7 @@ main article figure img {
   }
   .mobile-submenu:not([hidden]) {
     display: block;
-    max-height: calc(100dvh - 5rem);
+    max-height: calc(100dvh - 6rem);
     overflow-y: auto;
     overscroll-behavior: contain;
     scrollbar-width: none;
@@ -258,6 +258,7 @@ main article figure img {
   header .logo {
     width: min(240px, calc(100% - 56px));
     margin: 0;
+    padding-bottom: 0.5rem;
   }
   header .logo img { display: block; width: 100%; }
 
