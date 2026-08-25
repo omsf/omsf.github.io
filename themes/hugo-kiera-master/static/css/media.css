@@ -94,6 +94,16 @@ main article figure img {
 
   /* header menu --------------------------------- */
   nav:not(.homepage nav) { display: none; }
+  html.menu-open,
+  body.menu-open { overflow: hidden; }
+  body.menu-open {
+    position: fixed;
+    width: 100%;
+  }
+  body.menu-open #container > header {
+    position: fixed;
+    inset: 0 0 auto;
+  }
   .homepage .hamburger--slider, 
   .homepage #toggle-main-menu-mobile {
     opacity: 0;
@@ -187,6 +197,9 @@ main article figure img {
   }
   .mobile-submenu:not([hidden]) {
     display: block;
+    max-height: calc(100dvh - 5rem);
+    overflow-y: auto;
+    overscroll-behavior: contain;
   }
   .mobile-submenu ul {
     list-style: none;

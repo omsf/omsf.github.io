@@ -27,10 +27,24 @@ function toggleMobileMenu() {
   const menu = document.getElementById("mobile-submenu");
   const button = document.getElementById("toggle-main-menu-mobile");
   const open = menu.hidden;
+  const scrollY = open ? window.scrollY : Number(document.body.dataset.scrollY);
+
+  if (open) {
+    document.body.dataset.scrollY = scrollY;
+    document.body.style.top = `-${scrollY}px`;
+  }
 
   menu.hidden = !open;
+  document.documentElement.classList.toggle("menu-open", open);
+  document.body.classList.toggle("menu-open", open);
   button.classList.toggle("is-active", open);
   button.setAttribute("aria-expanded", open);
   button.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+
+  if (!open) {
+    document.body.style.top = "";
+    delete document.body.dataset.scrollY;
+    window.scrollTo(0, scrollY);
+  }
 }
 </script>
