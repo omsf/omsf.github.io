@@ -8,7 +8,7 @@
 */
 
 .events .gridflex {
-margin-top: 2em:
+  margin-top: 2em;
 }
 
 @media only screen and (min-width: 2000px) {
@@ -228,12 +228,31 @@ main article figure img {
 /* Footer  --------------------------------- */
   footer { display: block; }
   footer > div { width: unset; }
+  #logo-footer { max-width: 100%; height: auto; }
   footer .column-2 { text-align: center; }
   footer .column-2 .social { margin: 1em 0; }
+  footer .terms a { display: block; padding: 0.35em 0; }
 }
 
 
 @media only screen and (max-width: 600px) {
+  :root { --font-size: 19px; }
+  h1, h2, h3 { line-height: 1.15; }
+  h2 { font-size: 1.5em; }
+
+  header .logo {
+    width: min(240px, calc(100% - 56px));
+    margin: 0;
+  }
+  header .logo img { display: block; width: 100%; }
+
+  main article { border-left-width: 0.75em; }
+  main article > * {
+    padding-right: 1.25rem;
+    padding-left: 1.25rem;
+  }
+  .grid-page { padding: 1.25em; }
+
   :is(.projects, .people,.events) .gridflex {
     grid-template-columns: repeat(1,100%);
   }
@@ -244,6 +263,11 @@ main article figure img {
     padding: 0px;
   }
   hr {
-    width: 150px;
+    width: min(150px, 100%);
+    height: 0;
+    margin: 2em auto 1.5em;
   }
+  main article hr + h2 { margin-top: 0; }
+  footer { padding: 2em 1.25em; }
+  pre, table { max-width: 100%; overflow-x: auto; }
 }
