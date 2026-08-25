@@ -238,8 +238,10 @@ li.menu-item-has-children a.menu-link::after{
 .menu-item-has-children:hover .sub-menu {
   display: block;
 }
-.hamburger--slider, #toggle-main-menu-mobile {
-	opacity: 0;
+.mobile-submenu,
+.hamburger--slider,
+#toggle-main-menu-mobile {
+  display: none;
 }
 /* GRILLE ARTICLE AVEC IMAGES A GAUCHE -------------------------------------------- */
 figcaption {
