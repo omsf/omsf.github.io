@@ -239,7 +239,7 @@ li.menu-item-has-children a.menu-link::after{
   display: block;
 }
 .hamburger--slider, #toggle-main-menu-mobile {
-	opacity: 0;
+  display: none;
 }
 /* GRILLE ARTICLE AVEC IMAGES A GAUCHE -------------------------------------------- */
 figcaption {

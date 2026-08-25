@@ -74,6 +74,7 @@ margin-top: 2em:
   .homepage main section { padding: 3% 6%;}
   .homepage main nav { padding: 0px;}
   .homepage main nav ul { margin-left: 0px;}
+  .homepage #toggle-main-menu-mobile { display: none; }
 
    /* Grids --------------------------------- */
   :is(.projects, .people, .events) .gridflex {
@@ -99,11 +100,13 @@ main article figure img {
   }
   .hamburger--slider,
   #toggle-main-menu-mobile {
+    display: inline-block;
     opacity: 1;
   }
   .hamburger--slider {
     position: absolute !important;
-    right: 0;
+    right: 1ch;
+    top: 1ch;
   }
   .hamburger {
     padding: 15px;
@@ -119,6 +122,8 @@ main article figure img {
     border: 0;
     margin: 0;
     overflow: visible;
+    min-width: 44px;
+    min-height: 44px;
   }
   .hamburger-box {
     width: 32px;
@@ -166,10 +171,22 @@ main article figure img {
   .hamburger--slider .hamburger-inner::after {
     top: 16px;
   }
+  .hamburger--slider.is-active .hamburger-inner {
+    transform: translate3d(0, 8px, 0) rotate(45deg);
+  }
+  .hamburger--slider.is-active .hamburger-inner::before {
+    opacity: 0;
+  }
+  .hamburger--slider.is-active .hamburger-inner::after {
+    transform: translate3d(0, -16px, 0) rotate(-90deg);
+  }
     .mobile-submenu {
     display: none;
     margin-top: 1ch;
     width: 100%;
+  }
+  .mobile-submenu:not([hidden]) {
+    display: block;
   }
   .mobile-submenu ul {
     list-style: none;
@@ -179,7 +196,8 @@ main article figure img {
     width: 100%;
     text-decoration: none;
     text-align: center;
-    margin: 5px;
+    margin: 0;
+    padding: 0.6em;
     border-top: 1px solid grey;
   }
   .mobile-submenu a:hover {

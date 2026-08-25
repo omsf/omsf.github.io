@@ -1,10 +1,10 @@
-<button onclick="myFunction()" id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button">
+<button onclick="toggleMobileMenu()" id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button" aria-label="Open menu" aria-controls="mobile-submenu" aria-expanded="false">
   <span class="hamburger-box">
     <span class="hamburger-inner"></span>
   </span> 
 </button>
 
-<div id="mobile-submenu" style="display:none;" class="mobile-submenu">
+<div id="mobile-submenu" class="mobile-submenu" hidden>
 	{{ $currentPage := . }}
 	{{ range .Site.Menus.main }}
   <ul>
@@ -23,12 +23,14 @@
 </div>
 
 <script>
-	function myFunction() {
-  var x = document.getElementById("mobile-submenu");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
+function toggleMobileMenu() {
+  const menu = document.getElementById("mobile-submenu");
+  const button = document.getElementById("toggle-main-menu-mobile");
+  const open = menu.hidden;
+
+  menu.hidden = !open;
+  button.classList.toggle("is-active", open);
+  button.setAttribute("aria-expanded", open);
+  button.setAttribute("aria-label", open ? "Close menu" : "Open menu");
 }
 </script>
