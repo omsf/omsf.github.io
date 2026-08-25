@@ -200,7 +200,9 @@ main article figure img {
     max-height: calc(100dvh - 5rem);
     overflow-y: auto;
     overscroll-behavior: contain;
+    scrollbar-width: none;
   }
+  .mobile-submenu::-webkit-scrollbar { display: none; }
   .mobile-submenu ul {
     list-style: none;
   }
