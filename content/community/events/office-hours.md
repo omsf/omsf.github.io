@@ -25,6 +25,8 @@ For more information, be sure to follow OMSF on [LinkedIn](https://www.linkedin.
 ## Upcoming Office Hours
 Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18wZDAxN2UyNjUxMDgxN2YzYzJlZWE0ZDk2ZjVkYTNjYWI2NGM3ZDg2YjNjNWYxZDAyZTAzOTBmNWZmMWNhMTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)!
 
+## Previous Office Hours
+
 ### **August**
 
 **Topic**: Conda Packaging Ask Me Anything
@@ -35,7 +37,6 @@ Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=
 
 **Links**: [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3RlcXRmN3ZyZGhwOWMwMm5ndmxnNmhnaDYgZGF2aWQuc3dlbnNvbkBvbXNmLmlv&tmsrc=david.swenson%40omsf.io) · [Join on Zoom](https://zoom.us/j/9138593505?pwd=SWh3dE1IK05LV01Qa0FJZ1ZpMzJLZz09) · [Presubmit questions](https://hackmd.io/@jaimergp/HJMNExqBfl)
 
-## Previous Office Hours
 ### **July**
 
 **Topic**: Using framejs for interactive web-based visualizations
