@@ -27,7 +27,7 @@ Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=
 
 ### **December**
 
-**Topic**: Agentic Office Hours
+**Topic**: Agent Hour
 
 **Description**: Join us to discuss how we are using coding agents at the OMSF and associated projects! Share your workflows, ask questions, and talk about how you use or want to use tools like Claude Code, OpenCode, or Cursor.
 
