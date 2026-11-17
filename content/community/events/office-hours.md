@@ -25,6 +25,14 @@ For more information, be sure to follow OMSF on [LinkedIn](https://www.linkedin.
 ## Upcoming Office Hours
 Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18wZDAxN2UyNjUxMDgxN2YzYzJlZWE0ZDk2ZjVkYTNjYWI2NGM3ZDg2YjNjNWYxZDAyZTAzOTBmNWZmMWNhMTI3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)!
 
+### **December**
+
+**Topic**: Agentic Office Hours
+
+**Description**: Join us to discuss how we are using coding agents at the OMSF and associated projects! Share your workflows, ask questions, and talk about how you use or want to use tools like Claude Code, OpenCode, or Cursor.
+
+**Date**: December 4th
+
 ## Previous Office Hours
 
 ### **August**
