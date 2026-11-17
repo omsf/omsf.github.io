@@ -31,7 +31,9 @@ Subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/0?cid=
 
 **Description**: Join us to discuss how we are using coding agents at the OMSF and associated projects! Share your workflows, ask questions, and talk about how you use or want to use tools like Claude Code, OpenCode, or Cursor.
 
-**Date**: December 4th
+**Date**: December 4th, 12:00–1:00 PM Eastern Time
+
+**Links**: [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXFqMXVwbDgyYWNrdTUzdmw0bWFqcGpxOGwgY18wZDAxN2UyNjUxMDgxN2YzYzJlZWE0ZDk2ZjVkYTNjYWI2NGM3ZDg2YjNjNWYxZDAyZTAzOTBmNWZmMWNhMTI3QGc&tmsrc=c_0d017e26510817f3c2eea4d96f5da3cab64c7d86b3c5f1d02e0390f5ff1ca127%40group.calendar.google.com) · [Join on Zoom](https://us06web.zoom.us/j/81657239669?pwd=MqM7YXhPA96s7acKy9THZbkbnGyPZ1.1&jst=2)
 
 ## Previous Office Hours
 
